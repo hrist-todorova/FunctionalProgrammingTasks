@@ -1,3 +1,5 @@
+--https://github.com/fmi/fp2015/blob/master/week10/homework/README.md
+
 --Exercise 1  Truncatable primes
 
 isPrime :: Int -> Bool
