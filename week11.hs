@@ -17,6 +17,7 @@ suffix array1 array2
 
 
 --Exercise 3
+
 occurrences :: [Int] -> [Int] -> [Int]
 occurrences array1 array2
     | null array1 = []
